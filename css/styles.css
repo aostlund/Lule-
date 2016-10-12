@@ -1,0 +1,183 @@
+body {
+	background-color: #FBFCFE;
+}
+.container {
+  font-family: 'Bitter', serif;
+  max-width: 100%;
+  margin: auto;
+}
+
+.data-background-image {
+  background-image: url(../images/logo/Luleå3.jpg);
+  background-size: 100% ;
+  color: #fff;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: -30px;
+}
+
+.lulea-logo {
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	padding-top: 2em;
+}
+
+.lulea-logo-small {
+	color: #fff;
+	text-decoration: none;
+}
+
+.main-background-image a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.main-background-image h1 {
+
+	margin-top: 60px;
+}
+
+.main-background-image h3 {
+	float: left;
+	margin-top: 60px;
+}
+
+.content-wrapper {
+	width: 90%;
+	/* border: 2px solid #b0b9c0; */
+	margin: -109px auto;
+}
+
+nav {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  padding: 20px 0;
+  width: 20%;
+  list-style-type: none;
+  text-align: center;
+  background: linear-gradient(#375d7d, #b0b9c0);
+  display: inline;
+  float: left;
+}
+
+nav li:hover {
+  background: #375d7d;
+}
+
+nav li.selected {
+	background: #375d7d;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+
+.main-content  {
+  box-sizing: border-box;
+  min-height: 300px;
+  width: 100%;
+  float: left;
+	border-style: none solid;
+  border-width: 2px;
+	border-color: #b0b9c0;
+}
+
+.main-section-text {
+	width: 50%;
+	float: left;
+}
+
+.main-section-image {
+	width: 50%;
+	float: left;
+}
+
+.section-text {
+	width: 50%;
+	float: left;
+
+}
+
+.section-image {
+  width: 50%;
+  float: left;
+}
+
+section {
+  box-sizing: border-box;
+  min-height: 280px;
+  width: 80%;
+  float: left;
+	border-style: none solid;
+  border-width: 2px;
+	border-color: #b0b9c0;
+}
+
+article p {
+  font-size: 13px;
+  margin: 1em;
+}
+
+article h5 {
+  margin: 1em;
+}
+
+article h2 {
+  margin: 1em 0.5em;
+}
+
+aside {
+  width: 20%;
+  float: left;
+}
+
+aside a {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  width: 100%;
+  background: linear-gradient( #b0b9c0, #375d7d);
+  text-align: right;
+  float: left;
+}
+
+footer p {
+  color: #fff;
+  margin-right: 10px;
+}
+
+.clear {
+  clear: both;
+}
+
+
+.aside-image {
+  width: 95%;
+  margin: 20px 10px; 0 0;
+}
+
+.aside-header {
+  text-align: center;
+}
+
+.aside-header {
+  position: relative;
+}
+
+.aside-header h4 {
+	margin: 0;
+}
